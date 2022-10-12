@@ -8,7 +8,7 @@ const Navbar = () => {
     
         <Container className='navbar'>
             <Link className='home-link' to='/'><Logo>
-            <p>EasyyResume</p>
+            <p>ResumePlus</p>
             </Logo></Link>
             <RightMenu>
             <Link to='/'>Resume templates</Link>
