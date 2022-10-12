@@ -52,6 +52,12 @@ a{
   position: relative;
 }
 
+.logo{
+  margin: 0 20px;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 00.1cm;
+}
+
 @media print {
   @page {
     margin: 0;
