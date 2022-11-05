@@ -35,7 +35,7 @@ function Education() {
           variant="outlined"
           defaultValue={content.education.institution}
           inputRef={register}
-          // onChange={handleSubmit(onSubmit)}
+          
           style={{margin: 12}}
         />
 
@@ -46,7 +46,7 @@ function Education() {
           variant="outlined"
           defaultValue={content.education.city}
           inputRef={register}
-          // onChange={handleSubmit(onSubmit)}
+          
           style={{margin: 12}}
         />
 
@@ -57,7 +57,7 @@ function Education() {
           variant="outlined"
           defaultValue={content.education.major}
           inputRef={register}
-          // onChange={handleSubmit(onSubmit)}
+          
           style={{margin: 12}}
         />
 
@@ -68,7 +68,7 @@ function Education() {
           variant="outlined"
           defaultValue={content.education.gradYear}
           inputRef={register}
-          // onChange={handleSubmit(onSubmit)}
+          
           style={{margin: 12}}
         />
 
@@ -79,7 +79,7 @@ function Education() {
           variant="outlined"
           defaultValue={content.education.additional}
           inputRef={register}
-          // onChange={handleSubmit(onSubmit)}
+          
           style={{ margin: 12}}
         />
         <div style={{display:"flex"}}>

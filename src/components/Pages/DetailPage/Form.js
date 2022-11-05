@@ -66,6 +66,7 @@ function Form() {
           <div>
             <hr/>
             <FormArea>
+              {/* internal routing */}
               <Switch>
                 <Route path="/detail/info">
                   <Info />

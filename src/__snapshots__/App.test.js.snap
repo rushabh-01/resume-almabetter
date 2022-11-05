@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <div
+      style="position: fixed; top: 0px; width: 100vw; height: 100vh;"
+    >
+      <div
+        class="sc-eDWCr jHmALf"
+      >
+        <div
+          class="sc-bqWxrE bBgdDi"
+        >
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+          <li />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-jrcTuL cMVRsC navbar"
+    >
+      <a
+        class="home-link"
+        href="/"
+      >
+        <div
+          class="sc-ipEyDJ dmmAtF"
+        >
+          <p
+            class="logo"
+          >
+            ResumePlus
+          </p>
+        </div>
+      </a>
+      <div
+        class="sc-kDvujY feCCco"
+      >
+        <a
+          href="/"
+        >
+          Resume templates
+        </a>
+        <a
+          href="/about"
+        >
+          About us
+        </a>
+      </div>
+    </div>
+    <div
+      class="left"
+    >
+      <h2
+        style="text-align: center;"
+      >
+        Build your brand-new resume in as little as 5 minutes.
+      </h2>
+      <h4
+        style="text-align: center;"
+      >
+        Chosse a template
+      </h4>
+      <div
+        class="sc-hBxehG ihQuus"
+      >
+        <a
+          href="/detail/info"
+        >
+          <div
+            class="sc-fnGiBr eXAihs"
+          >
+            <img
+              alt=""
+              class="templateImage"
+              src="skin1.svg"
+            />
+          </div>
+        </a>
+        <a
+          href="/detail/info"
+        >
+          <div
+            class="sc-fnGiBr eXAihs"
+          >
+            <img
+              alt=""
+              class="templateImage"
+              src="skin2.svg"
+            />
+          </div>
+        </a>
+        <a
+          href="/detail/info"
+        >
+          <div
+            class="sc-fnGiBr eXAihs"
+          >
+            <img
+              alt=""
+              class="templateImage"
+              src="skin3.svg"
+            />
+          </div>
+        </a>
+        <a
+          href="/detail/info"
+        >
+          <div
+            class="sc-fnGiBr eXAihs"
+          >
+            <img
+              alt=""
+              class="templateImage"
+              src="skin4.svg"
+            />
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

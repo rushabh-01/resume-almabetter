@@ -109,22 +109,25 @@ function Final() {
   return (
     <div className="right">
       <div className={classes.root}>
+        
+        {/* clear */}
         <Link href="#" onClick={handleDeleteDate} style={{textDecoration: 'none'}}>
           <Tooltip title="Delete All Data" placement="right">
             <div className={classes.pink}>
-              {/* <ClearIcon /> */}
               CLEAR
             </div>
           </Tooltip>
         </Link>
+        
+        {/* pdf */}
         <Link href="#" onClick={handleSaveToPDF} style={{textDecoration: 'none'}}>
           <Tooltip title="Save to PDF" placement="right">
             <div className={classes.green}>
-              {/* <PictureAsPdfIcon /> */}
               PDF
             </div>
           </Tooltip>
         </Link>
+        
         <div>{expData}</div>
       </div>
       <Output/>
