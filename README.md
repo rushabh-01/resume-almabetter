@@ -1,1 +1,1 @@
-Preject Link : https://resume-almabetter.herokuapp.com/
+Project Link : https://resume-almabetter.herokuapp.com/
